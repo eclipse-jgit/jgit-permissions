@@ -1,7 +1,8 @@
-# UUID                 	Group Name
+# UUID                                        	Group Name
 #
-global:Anonymous-Users 	Anonymous Users
-global:Project-Owners  	Project Owners
-global:Registered-Users	Registered Users
-user:eclipse-jgit-bot  	user/eclipse-jgit-bot
-user:msohn             	user/Matthias Sohn (msohn)
+github:eclipse-jgit/technology-jgit-committers	github/eclipse-jgit/technology-jgit-committers
+global:Anonymous-Users                        	Anonymous Users
+global:Project-Owners                         	Project Owners
+global:Registered-Users                       	Registered Users
+user:eclipse-jgit-bot                         	user/eclipse-jgit-bot
+user:msohn                                    	user/Matthias Sohn (msohn)
