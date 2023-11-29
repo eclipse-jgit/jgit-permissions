@@ -3,10 +3,9 @@
 github:eclipse-jgit/eclipsefdn-releng         	github/eclipse-jgit/eclipsefdn-releng
 github:eclipse-jgit/eclipsefdn-security       	github/eclipse-jgit/eclipsefdn-security
 github:eclipse-jgit/technology-jgit-committers	github/eclipse-jgit/technology-jgit-committers
-github:eclipse-egit/technology-jgit-project-leads	github/eclipse-egit/technology-jgit-project-leads
 global:Anonymous-Users                        	Anonymous Users
 global:Project-Owners                         	Project Owners
 global:Registered-Users                       	Registered Users
-user:eclipse-jgit-bot                         	user/eclipse-jgit-bot
+user:eclipse-jgit-bot                         	user/eclipse-jgit-bot (eclipse-jgit-bot)
 user:lucamilanesio                            	user/Luca Milanesio (lucamilanesio)
 user:msohn                                    	user/Matthias Sohn (msohn)
