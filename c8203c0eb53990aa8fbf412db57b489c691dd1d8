@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f8ffb3c_06825ee9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-12-02T11:49:53Z",
+      "side": 1,
+      "message": "Being owner of the eclipse-jgit/jgit-permissions would grant me +2 on both JGit/EGit. It would be best not having that permissions if not through the committer group ownership in GitHub.",
+      "revId": "c8203c0eb53990aa8fbf412db57b489c691dd1d8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
